@@ -7,9 +7,9 @@ export const Container = styled.div`
 export const Button = styled.button`
   font-size: 20px;
   padding: 10px;
-  border-radius: 5px;
-  border: 1px solid teal;
+  border-radius: 4px;
+  border: 1px solid 	#AFEEEE;
   :hover {
-    background-color: teal;
+    background-color:  #E0FFFF;
   }
 `;
