@@ -8,8 +8,8 @@ export const Button = styled.button`
   font-size: 20px;
   padding: 10px;
   border-radius: 4px;
-  border: 1px solid 	#AFEEEE;
+  border: 1px solid #afeeee;
   :hover {
-    background-color:  #E0FFFF;
+    background-color: #e0ffff;
   }
 `;
